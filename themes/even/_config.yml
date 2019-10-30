@@ -1,0 +1,111 @@
+# ===========================================
+# Site Information Settings
+# ===========================================
+
+# Site creation time
+since: 2018
+
+# Custom your favicon.ico in `site/source`
+favicon: /favicon.ico
+
+# Set feed link (false | default | your feed link)
+# false: disable
+# default: use `atom.xml`, generator for `hexo-generator-feed`
+rss: false
+
+# ===========================================
+# Menu Settings
+# ===========================================
+menu:
+  Home: /
+  Archives: /archives/
+  Tags: /tags
+  Categories: /categories
+  About: /about
+
+menuicon:
+  Home: 'fa fa-fw fa-home'  
+  Archives: 'fa fa-fw fa-archive' 
+  Tags: 'fa fa-fw fa-tags' 
+  Categories: 'fa fa-fw fa-th'
+  About: 'fa fa-fw fa-user' 
+
+# ===========================================
+# Theme Settings
+# ===========================================
+# color: default | mint green | cobalt blue | hot pink | dark violet
+color: cobalt blue
+
+# default page mode: default | archives
+mode: default
+
+toc: true
+
+# jQuery fancybox
+fancybox: true
+
+pjax: true
+
+copyright:
+  enable: true
+  # https://creativecommons.org/
+  license: '<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank">知识共享署名-非商业性使用 4.0 国际许可协议</a>'
+
+reward:
+  enable: true
+  qrCode:
+    wechat: /image/reward/wechat.png
+    alipay: /image/reward/alipay.png
+
+# ===========================================
+# Social links Settings
+# ===========================================
+social:
+  email: 
+  stack-overflow: https://stackoverflow.com/users/8488426/sunlightsimple
+  twitter:
+  facebook:
+  linkedin:
+  google:
+  github: https://github.com/SimpleSunLight
+  weibo:
+  zhihu: https://www.zhihu.com/people/chen-can-16-48/activities
+  douban:
+  pocket:
+  tumblr:
+  instagram:
+
+# ===========================================
+# Third Party Services Settings
+# ===========================================
+
+# LeanCloud
+leancloud:
+  app_id: mc9K0bNk3IGBqviq7b7VbmsM-gzGzoHsz
+  app_key: 7ycTfk75EHunsjkHO5rmjGEY
+
+# Baidu Analytics
+baidu_analytics: 'UA-131713064-1'
+# Baidu Verification
+baidu_verification:
+
+# Google Analytics
+google_analytics:
+# Google Verification
+google_verification:
+
+# Disqus
+disqus_shortname: 
+
+#Changyan
+changyan:
+  appid:
+  appkey:
+
+#LiveRe
+livere_datauid: MTAyMC80MTM2OC8xNzkxNQ
+
+# ===========================================
+# Version
+# ===========================================
+version: 2.10.1

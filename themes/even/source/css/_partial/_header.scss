@@ -1,0 +1,23 @@
+// ==============================
+// Header
+// ==============================
+
+.header {
+  @include clearfix; 
+  padding: $header-padding;
+	border-bottom: 1px solid #f5f5f5;	
+	.header-inner{
+		width: 800px;
+		margin: 0 auto;
+	}
+  @import '_header/logo';
+  @import '_header/menu';
+}
+
+
+@include max-screen() {
+  .header {
+    padding: 50px 0 0;
+    text-align: center;
+  }
+}
