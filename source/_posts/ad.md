@@ -1,6 +1,6 @@
 ---
 title: Vue非父子组件之间的通信
-date: 2018-11-30 11:20:07
+date: 2018-12-14 11:20:07
 categories: Vue
 tags:
  - vue

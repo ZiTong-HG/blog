@@ -1,6 +1,6 @@
 ---
 title: Vue父组件传递数据给子组件
-date: 2018-11-29 17:20:15
+date: 2019-1-19 17:20:15
 categories: Vue
 tags: 
  - vue

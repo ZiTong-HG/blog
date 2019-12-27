@@ -1,6 +1,6 @@
 ---
 title: Vue子组件给父组件通信
-date: 2018-11-30 11:18:37
+date: 2018-12-7 11:18:37
 categories: Vue
 tags:
  - vue
