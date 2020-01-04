@@ -5,3 +5,6 @@
   hexo clean
   hexo g 
   hexo d
+
+3. 本地启动
+  hexo server
