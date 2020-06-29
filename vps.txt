@@ -1,0 +1,3 @@
+user: root
+pwd: mjskOpkJeGUk
+port: 29837
